@@ -1287,8 +1287,8 @@ audio {
         text-transform: uppercase;
         font-family: 'Signika', sans-serif;
         font-weight: 700;
-        color: #fff;
-        background-color: #466baf;
+        color: #000;
+        background-color: #fff41c;
 }
     .btn-primary:hover,
     .btn-primary:focus,
